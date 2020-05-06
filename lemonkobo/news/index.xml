@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>News | レモン工房と開発室</title>
+    <link>/news/</link>
+      <atom:link href="/news/index.xml" rel="self" type="application/rss+xml" />
+    <description>News</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>ja</language><copyright>Copyright ©2018-2020 レモン工房と開発室 All Rights Reserved.</copyright><lastBuildDate>Wed, 06 May 2020 00:00:00 +0900</lastBuildDate>
+    <image>
+      <url>/images/logo_hu9f617ec0ef4de0a6c79328b8a29f8bc3_14800_300x300_fit_lanczos_2.png</url>
+      <title>News</title>
+      <link>/news/</link>
+    </image>
+    
+    <item>
+      <title>サイトをリニューアルしました</title>
+      <link>/news/%E3%82%B5%E3%82%A4%E3%83%88%E3%82%92%E3%83%AA%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%A2%E3%83%AB%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F/</link>
+      <pubDate>Wed, 06 May 2020 00:00:00 +0900</pubDate>
+      <guid>/news/%E3%82%B5%E3%82%A4%E3%83%88%E3%82%92%E3%83%AA%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%A2%E3%83%AB%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F/</guid>
+      <description>&lt;p&gt;サイトを新しくしました。更新頻度は特に上がりません。&lt;br&gt;
+相変わらず告知や作ったゲームの報告が中心になると思います。ゆっくり行きます。&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

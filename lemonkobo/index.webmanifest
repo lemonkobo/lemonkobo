@@ -1,0 +1,18 @@
+{
+  "name": "レモン工房と開発室",
+  "short_name": "レモン工房と開発室",
+  "lang": "ja",
+  "theme_color": "#2962ff",
+  "background_color": "#2962ff",
+  "icons": [{
+    "src": "/images/icon_hu92a4a7e3355c8cc7459f741bdf3f87a0_81158_192x192_fill_lanczos_center_2.png",
+    "sizes": "192x192",
+    "type": "image/png"
+    }, {
+    "src": "/images/icon_hu92a4a7e3355c8cc7459f741bdf3f87a0_81158_512x512_fill_lanczos_center_2.png",
+    "sizes": "512x512",
+    "type": "image/png"
+     }],
+  "display": "standalone",
+  "start_url": "/?utm_source=web_app_manifest"
+}

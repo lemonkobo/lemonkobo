@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Works | レモン工房と開発室</title>
+    <link>/works/</link>
+      <atom:link href="/works/index.xml" rel="self" type="application/rss+xml" />
+    <description>Works</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>ja</language><copyright>Copyright ©2018-2020 レモン工房と開発室 All Rights Reserved.</copyright><lastBuildDate>Thu, 21 Mar 2019 00:00:00 +0900</lastBuildDate>
+    <image>
+      <url>/images/logo_hu9f617ec0ef4de0a6c79328b8a29f8bc3_14800_300x300_fit_lanczos_2.png</url>
+      <title>Works</title>
+      <link>/works/</link>
+    </image>
+    
+    <item>
+      <title>デルフィニウム・アドベンチャー</title>
+      <link>/works/%E3%83%86%E3%83%AB%E3%83%95%E3%82%A3%E3%83%8B%E3%82%A6%E3%83%A0%E3%82%A2%E3%83%88%E3%83%98%E3%83%B3%E3%83%81%E3%83%A3%E3%83%BC/</link>
+      <pubDate>Thu, 21 Mar 2019 00:00:00 +0900</pubDate>
+      <guid>/works/%E3%83%86%E3%83%AB%E3%83%95%E3%82%A3%E3%83%8B%E3%82%A6%E3%83%A0%E3%82%A2%E3%83%88%E3%83%98%E3%83%B3%E3%83%81%E3%83%A3%E3%83%BC/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>事件の声が聞こえる！</title>
+      <link>/works/%E4%BA%8B%E4%BB%B6%E3%81%AE%E5%A3%B0%E3%81%8B%E8%81%9E%E3%81%93%E3%81%88%E3%82%8Bdsp/</link>
+      <pubDate>Sun, 22 Apr 2018 00:00:00 +0900</pubDate>
+      <guid>/works/%E4%BA%8B%E4%BB%B6%E3%81%AE%E5%A3%B0%E3%81%8B%E8%81%9E%E3%81%93%E3%81%88%E3%82%8Bdsp/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

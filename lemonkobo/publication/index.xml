@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications | レモン工房と開発室</title>
+    <link>/publication/</link>
+      <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publications</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>ja</language><copyright>Copyright ©2018-2020 レモン工房と開発室 All Rights Reserved.</copyright>
+    <image>
+      <url>/images/logo_hu9f617ec0ef4de0a6c79328b8a29f8bc3_14800_300x300_fit_lanczos_2.png</url>
+      <title>Publications</title>
+      <link>/publication/</link>
+    </image>
+    
+  </channel>
+</rss>

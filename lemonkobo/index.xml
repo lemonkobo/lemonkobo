@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>レモン工房と開発室</title>
+    <link>/</link>
+      <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <description>レモン工房と開発室</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>ja</language><copyright>Copyright ©2018-2020 レモン工房と開発室 All Rights Reserved.</copyright><lastBuildDate>Thu, 28 Jun 2018 00:00:00 +0100</lastBuildDate>
+    <image>
+      <url>/images/logo_hu9f617ec0ef4de0a6c79328b8a29f8bc3_14800_300x300_fit_lanczos_2.png</url>
+      <title>レモン工房と開発室</title>
+      <link>/</link>
+    </image>
+    
+    <item>
+      <title>Academic Kickstart</title>
+      <link>/demo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/demo/</guid>
+      <description>&lt;p&gt;Welcome to the &lt;strong&gt;Academic Kickstart&lt;/strong&gt; template!&lt;/p&gt;
+&lt;p&gt;Follow our 
+&lt;a href=&#34;https://sourcethemes.com/academic/docs/get-started/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Getting Started&lt;/a&gt; and 
+&lt;a href=&#34;https://sourcethemes.com/academic/docs/widgets/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Page Builder&lt;/a&gt; guides to easily personalize the template and then 
+&lt;a href=&#34;https://sourcethemes.com/academic/docs/managing-content/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;add your own content&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;For inspiration, check out 
+&lt;a href=&#34;https://sourcethemes.com/academic/docs/install/#demo-content&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;the Markdown files&lt;/a&gt; which power the 
+&lt;a href=&#34;https://academic-demo.netlify.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;personal demo&lt;/a&gt;. The easiest way to publish your new site to the internet is with 
+&lt;a href=&#34;https://sourcethemes.com/academic/docs/deployment/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Netlify&lt;/a&gt;.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://sourcethemes.com/academic/docs/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;View the documentation&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://discuss.gohugo.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ask a question&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://github.com/gcushen/hugo-academic/issues&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Request a feature or report a bug&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Updating? View the 
+&lt;a href=&#34;https://sourcethemes.com/academic/docs/update/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Update Guide&lt;/a&gt; and 
+&lt;a href=&#34;https://sourcethemes.com/academic/updates/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Release Notes&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Support development of Academic:
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://paypal.me/cushen&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Donate a coffee&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.patreon.com/cushen&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Become a backer on Patreon&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.redbubble.com/people/neutreno/works/34387919-academic&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Decorate your laptop or journal with an Academic sticker&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://academic.threadless.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wear the T-shirt&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    &lt;p&gt;This homepage section is an example of adding &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34;&gt;elements&lt;/a&gt; to the &lt;a href=&#34;https://sourcethemes.com/academic/docs/widgets/&#34;&gt;&lt;em&gt;Blank&lt;/em&gt; widget&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Backgrounds can be applied to any section. Here, the &lt;em&gt;background&lt;/em&gt; option is set give a &lt;em&gt;color gradient&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;To remove this section, delete &lt;code&gt;content/home/demo.md&lt;/code&gt;.&lt;/strong&gt;&lt;/p&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Skills</title>
+      <link>/skills/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/skills/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Experience</title>
+      <link>/experience/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/experience/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Accomplish&amp;shy;ments</title>
+      <link>/accomplishments/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/accomplishments/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/projects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recent &amp; Upcoming Talks</title>
+      <link>/talks/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/talks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Featured Publications</title>
+      <link>/featured/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/featured/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recent Publications</title>
+      <link>/publications/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/publications/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Quickly discover relevant content by &lt;a href=&#34;/publication/&#34;&gt;filtering publications&lt;/a&gt;.
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Popular Topics</title>
+      <link>/tags/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/tags/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/contact/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>サイトをリニューアルしました</title>
+      <link>/news/%E3%82%B5%E3%82%A4%E3%83%88%E3%82%92%E3%83%AA%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%A2%E3%83%AB%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F/</link>
+      <pubDate>Wed, 06 May 2020 00:00:00 +0900</pubDate>
+      <guid>/news/%E3%82%B5%E3%82%A4%E3%83%88%E3%82%92%E3%83%AA%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%A2%E3%83%AB%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F/</guid>
+      <description>&lt;p&gt;サイトを新しくしました。更新頻度は特に上がりません。&lt;br&gt;
+相変わらず告知や作ったゲームの報告が中心になると思います。ゆっくり行きます。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>サイトをリニューアルしました</title>
+      <link>/post/%E3%82%B5%E3%82%A4%E3%83%88%E3%82%92%E3%83%AA%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%A2%E3%83%AB%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F/</link>
+      <pubDate>Tue, 21 Apr 2020 23:10:28 +0900</pubDate>
+      <guid>/post/%E3%82%B5%E3%82%A4%E3%83%88%E3%82%92%E3%83%AA%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%A2%E3%83%AB%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F/</guid>
+      <description>&lt;p&gt;サイトを新しくしました。更新頻度は特に上がりません。&lt;br&gt;
+相変わらず告知や作ったゲームの報告が中心になると思います。ゆっくり行きます。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>コデマリグルメラン！</title>
+      <link>/games/%E3%82%B3%E3%83%86%E3%83%9E%E3%83%AA%E3%82%AF%E3%83%AB%E3%83%A1%E3%83%A9%E3%83%B3/</link>
+      <pubDate>Thu, 21 Mar 2019 00:00:00 +0900</pubDate>
+      <guid>/games/%E3%82%B3%E3%83%86%E3%83%9E%E3%83%AA%E3%82%AF%E3%83%AB%E3%83%A1%E3%83%A9%E3%83%B3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>デルフィニウム・アドベンチャー</title>
+      <link>/works/%E3%83%86%E3%83%AB%E3%83%95%E3%82%A3%E3%83%8B%E3%82%A6%E3%83%A0%E3%82%A2%E3%83%88%E3%83%98%E3%83%B3%E3%83%81%E3%83%A3%E3%83%BC/</link>
+      <pubDate>Thu, 21 Mar 2019 00:00:00 +0900</pubDate>
+      <guid>/works/%E3%83%86%E3%83%AB%E3%83%95%E3%82%A3%E3%83%8B%E3%82%A6%E3%83%A0%E3%82%A2%E3%83%88%E3%83%98%E3%83%B3%E3%83%81%E3%83%A3%E3%83%BC/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Privacy Policy</title>
+      <link>/privacy/</link>
+      <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
+      <guid>/privacy/</guid>
+      <description>&lt;p&gt;本プライバシーポリシーは、以下のサイト（以降、「当サイト」と表記。）
+&lt;a href=&#34;https://lemonkobo.com/&#34;&gt;https://lemonkobo.com/&lt;/a&gt;&lt;br&gt;
+&lt;a href=&#34;https://game.lemonkobo.com/&#34;&gt;https://game.lemonkobo.com/&lt;/a&gt;&lt;br&gt;
+&lt;a href=&#34;https://sp.lemonkobo.com/&#34;&gt;https://sp.lemonkobo.com/&lt;/a&gt;&lt;br&gt;
+において、当サイトの訪問者（以降、「訪問者」と表記。）の個人情報もしくはそれに準ずる情報を取り扱う際に、当サイトが遵守する方針を示したものです。&lt;/p&gt;
+&lt;h2 id=&#34;cookieの利用に関して&#34;&gt;Cookieの利用に関して&lt;/h2&gt;
+&lt;p&gt;当サイトは、訪問者の閲覧の利便性を上げるため、コンピュータにCookieを送信することがあります。&lt;br&gt;
+Cookie（クッキー）とは、ウェブサイトを利用したときに、ブラウザとサーバーとの間で送受信した利用履歴や入力内容などを、訪問者のコンピュータにファイルとして保存しておく仕組みです。 訪問者は、Cookieの送受信に関する設定を「すべてのCookieを許可する」、「すべてのCookieを拒否する」、「Cookieを受信したらユーザーに通知する」などから選択できます。設定方法は、ブラウザにより異なります。Cookieに関する設定方法は、お使いのブラウザの「ヘルプ」メニューでご確認ください。&lt;/p&gt;
+&lt;h2 id=&#34;アクセス解析ツールに関して&#34;&gt;アクセス解析ツールに関して&lt;/h2&gt;
+&lt;p&gt;当サイトでは、Googleによるアクセス解析ツール「Googleアナリティクス」を利用しています。このGoogleアナリティクスはトラフィックデータの収集のためにCookieを使用しています。このトラフィックデータは匿名で収集されており、個人を特定するものではありません。&lt;br&gt;
+この機能はCookieを無効にすることで収集を拒否することが出来ますので、お使いのブラウザの設定をご確認ください。この規約に関して、詳しくはここをクリックしてください。&lt;/p&gt;
+&lt;h2 id=&#34;免責事項&#34;&gt;免責事項&lt;/h2&gt;
+&lt;p&gt;当サイトに掲載する情報は記事公表時点の正しいものを提供するよう努めております。ただし、提供している情報、リンク先などにより、いかなる損失や損害などの被害が発生しても当サイトでは責任を負いかねますので、ご了承ください。&lt;/p&gt;
+&lt;h2 id=&#34;プライバシーポリシーの変更について&#34;&gt;プライバシーポリシーの変更について&lt;/h2&gt;
+&lt;p&gt;当サイトは、個人情報に関して適用される日本の法令を遵守するとともに、本プライバシーポリシーの内容を適宜見直しその改善に努めます。&lt;br&gt;
+修正された最新のプライバシーポリシーは常に本ページにて開示されます。&lt;/p&gt;
+&lt;h2 id=&#34;お問い合わせ先&#34;&gt;お問い合わせ先&lt;/h2&gt;
+&lt;p&gt;当サイト、又は個人情報の取扱いに関しては、下記のメールアドレスにてお問い合わせください。&lt;/p&gt;
+&lt;p&gt;青果レモン
+&lt;a href=&#34;mailto:lemonkobo@gmail.com&#34;&gt;lemonkobo@gmail.com&lt;/a&gt;&lt;/p&gt;
+&lt;div style=&#34;text-align: right;&#34;&gt;
+以上
+&lt;/div&gt;
+&lt;hr&gt;
+&lt;p&gt;2019年9月19日 策定&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>事件の声が聞こえる！</title>
+      <link>/games/%E4%BA%8B%E4%BB%B6%E3%81%AE%E5%A3%B0%E3%81%8B%E8%81%9E%E3%81%93%E3%81%88%E3%82%8B/</link>
+      <pubDate>Sun, 22 Apr 2018 00:00:00 +0900</pubDate>
+      <guid>/games/%E4%BA%8B%E4%BB%B6%E3%81%AE%E5%A3%B0%E3%81%8B%E8%81%9E%E3%81%93%E3%81%88%E3%82%8B/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>事件の声が聞こえる！</title>
+      <link>/works/%E4%BA%8B%E4%BB%B6%E3%81%AE%E5%A3%B0%E3%81%8B%E8%81%9E%E3%81%93%E3%81%88%E3%82%8Bdsp/</link>
+      <pubDate>Sun, 22 Apr 2018 00:00:00 +0900</pubDate>
+      <guid>/works/%E4%BA%8B%E4%BB%B6%E3%81%AE%E5%A3%B0%E3%81%8B%E8%81%9E%E3%81%93%E3%81%88%E3%82%8Bdsp/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>青果レモン | レモン工房と開発室</title>
+    <link>/author/%E9%9D%92%E6%9E%9C%E3%83%AC%E3%83%A2%E3%83%B3/</link>
+      <atom:link href="/author/%E9%9D%92%E6%9E%9C%E3%83%AC%E3%83%A2%E3%83%B3/index.xml" rel="self" type="application/rss+xml" />
+    <description>青果レモン</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>ja</language><copyright>Copyright ©2018-2020 レモン工房と開発室 All Rights Reserved.</copyright><lastBuildDate>Wed, 06 May 2020 00:00:00 +0900</lastBuildDate>
+    <image>
+      <url>/author/%E9%9D%92%E6%9E%9C%E3%83%AC%E3%83%A2%E3%83%B3/avatar_huc6daf5607e81d6d3e0d7cbcd46e8ac81_30595_270x270_fill_q90_lanczos_center.jpg</url>
+      <title>青果レモン</title>
+      <link>/author/%E9%9D%92%E6%9E%9C%E3%83%AC%E3%83%A2%E3%83%B3/</link>
+    </image>
+    
+    <item>
+      <title>サイトをリニューアルしました</title>
+      <link>/news/%E3%82%B5%E3%82%A4%E3%83%88%E3%82%92%E3%83%AA%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%A2%E3%83%AB%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F/</link>
+      <pubDate>Wed, 06 May 2020 00:00:00 +0900</pubDate>
+      <guid>/news/%E3%82%B5%E3%82%A4%E3%83%88%E3%82%92%E3%83%AA%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%A2%E3%83%AB%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F/</guid>
+      <description>&lt;p&gt;サイトを新しくしました。更新頻度は特に上がりません。&lt;br&gt;
+相変わらず告知や作ったゲームの報告が中心になると思います。ゆっくり行きます。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>サイトをリニューアルしました</title>
+      <link>/post/%E3%82%B5%E3%82%A4%E3%83%88%E3%82%92%E3%83%AA%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%A2%E3%83%AB%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F/</link>
+      <pubDate>Tue, 21 Apr 2020 23:10:28 +0900</pubDate>
+      <guid>/post/%E3%82%B5%E3%82%A4%E3%83%88%E3%82%92%E3%83%AA%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%A2%E3%83%AB%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F/</guid>
+      <description>&lt;p&gt;サイトを新しくしました。更新頻度は特に上がりません。&lt;br&gt;
+相変わらず告知や作ったゲームの報告が中心になると思います。ゆっくり行きます。&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
